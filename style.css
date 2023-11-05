@@ -1,0 +1,38 @@
+/* COLOR NAME   */
+/* h1{
+    color: red;
+    background-color: wheat;
+} */
+/* HEX colors */
+/* h1{
+    color: #793279;
+} */
+
+/* RGB colors */
+/* h1{
+    color: rgb(90, 70, 70);
+} */
+
+/* BACKGROUND  COLOR */
+/* h1{
+    background-color: blue;
+    color: red;
+}
+body{
+    background-color: wheat;
+} */
+
+/* div{
+    background-color: wheat;
+    color: red;
+} */
+
+/* OPACITY  */
+/* #div1{
+    background-color: green;
+    opacity: 0.5%;
+} */
+
+img{
+    opacity: 0.5;
+}
